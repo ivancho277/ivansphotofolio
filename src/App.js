@@ -1,6 +1,7 @@
 import logo from './logo.svg';
-import homePhoto from '../public/Images/homePhoto.JPG'
+import homePhoto from './Images//homePhoto.JPG';
 import './App.css';
+import AboutMe from './Pages/AboutMe';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={homePhoto} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <AboutMe> </AboutMe>
         </p>
         <a
           className="App-link"

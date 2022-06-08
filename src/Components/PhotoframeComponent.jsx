@@ -19,12 +19,5 @@ export default photoContainer
     - photo url / location.
     - padding probably.
     - Potentially photo title / label / summary NOTE: I think Id like for it to be on mouse hover as well, for photo info.
-    -
-
-
-
-
-
-
-
+    - 
 */
