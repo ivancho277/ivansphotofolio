@@ -24,9 +24,9 @@ const defaultProps = {};
 const AboutMe = () => {
     return <div>
         <h1>
-        Ivan Rouskov's Photofolio
+            Ivan Rouskov's Photofolio
         </h1>
-        </div>;
+    </div>;
 }
 
 AboutMe.propTypes = propTypes;

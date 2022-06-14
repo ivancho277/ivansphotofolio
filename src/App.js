@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={homePhoto} className="App-logo" alt="logo" />
         <p>
           <AboutMe> </AboutMe>
         </p>
+        <img src={homePhoto} className="App-logo" alt="logo" />
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -25,3 +25,4 @@ function App() {
 }
 
 export default App;
+ 
